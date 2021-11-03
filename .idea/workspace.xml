@@ -6,21 +6,12 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:kek_test" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -55,6 +46,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Evraz_clone" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -72,7 +65,7 @@
       <workItem from="1635955377699" duration="336000" />
       <workItem from="1635955759770" duration="4000" />
       <workItem from="1635955823253" duration="4000" />
-      <workItem from="1635955849012" duration="327000" />
+      <workItem from="1635955849012" duration="1082000" />
     </task>
     <task id="LOCAL-00001" summary="kek">
       <created>1635955006251</created>
@@ -98,7 +91,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="kek_test" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -116,14 +109,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="kek" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635955071752">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="331" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635956795942">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="331" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635956795942" />
     <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1635955071752" />
+    <state x="527" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1635956518089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635956518089" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1635955714298">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635955714298" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1635956924279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1635956924279" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635955400507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
